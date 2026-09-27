@@ -26,3 +26,4 @@ for question, answer in Questions_And_Answers.items():
 
 print(f"Your score is {score}/{questions}.")
 
+#hello practice git
